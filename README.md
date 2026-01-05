@@ -67,14 +67,8 @@
 
 ---
 
-### 📊 GitHub Stats
+### 📊  My Contribution
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TeerananNaenuan&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TeerananNaenuan&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" width="48%" />
-</div>
-
-<br>
 
 <div align="center">
   <h3>📈 Monthly Activity</h3>
