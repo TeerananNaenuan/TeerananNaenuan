@@ -70,7 +70,5 @@
 ### 📊  My Contribution
 
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=3596F5&center=true&vCenter=true&width=435&lines=Hi+there!+I'm+Teeranan;Full+Stack+Developer+@PSU;I+Love+React%2C+Node.js+and+PHP;Always+learning+new+things!+🚀" alt="Typing SVG" />
-  </a>
+  <img src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%" />
 </div>
