@@ -78,5 +78,5 @@
 
 <div align="center">
   <h3>🕹️ Pac-Man Contribution</h3>
-  <img src="./dist/pacman-contribution-graph.svg" width="100%" />
+  <img src="./dist/pacman-contribution-graph-dark.svg" width="100%" />
 </div>
