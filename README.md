@@ -79,3 +79,9 @@
 <div align="center">
   <img src="https://github.com/TeerananNaenuan/TeerananNaenuan/blob/output/github-contribution-grid-snake.svg" alt="snake animation" width="100%"/>
 </div>
+
+<br>
+
+<div align="center">
+  <img src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%" />
+</div>
