@@ -75,3 +75,8 @@
 <div align="center">
   <img src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%" />
 </div>
+
+<div align="center">
+  <h3>🕹️ Pac-Man Contribution</h3>
+  <img src="https://github.com/TeerananNaenuan/TeerananNaenuan/blob/main/profile-eating-pacman.svg" width="100%" />
+</div>
