@@ -71,12 +71,12 @@
 
 <h3 align="center">📊 GitHub Stats</h3>
 
-
-<div align="center">
-  <img src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%" />
-</div>
-
 <div align="center">
   <h3>🕹️ Pac-Man Contribution</h3>
   <img src="./dist/pacman-contribution-graph-dark.svg" width="100%" />
 </div>
+<div align="center">
+  <img src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%" />
+</div>
+
+
