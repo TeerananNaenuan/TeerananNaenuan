@@ -70,6 +70,6 @@
 ### 📊  My Contribution
 
 <div align="center">
-  <h3>🏆 Achievements</h3>
-  <img src="https://github-profile-trophy.vercel.app/?username=TeerananNaenuan&theme=radical&no-frame=true&column=7&margin-w=15&margin-h=15" width="100%" />
+  <h3>🔥 Coding Streak</h3>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TeerananNaenuan&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
