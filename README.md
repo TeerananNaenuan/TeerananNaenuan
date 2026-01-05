@@ -77,5 +77,6 @@
 <br>
 
 <div align="center">
-  <img src="https://github.com/TeerananNaenuan/TeerananNaenuan/blob/output/github-contribution-grid-snake.svg" alt="snake animation" width="100%"/>
+  <h3>📈 Monthly Activity</h3>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TeerananNaenuan&theme=tokyo-night&bg_color=0D1117&hide_border=true&area=true" width="100%" />
 </div>
