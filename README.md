@@ -85,3 +85,8 @@
 <div align="center">
   <img src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%" />
 </div>
+
+<div align="center">
+  <img src="https://i.pinimg.com/originals/34/26/50/3426508930438a379a2936a11756570c.gif" width="100%" style="border-radius: 10px;"/>
+  <p><i>Thanks for visiting my profile!</i></p>
+</div>
