@@ -19,17 +19,22 @@
 ### 👨‍💻 About Me
 
 
+<table>
   <tr>
     <td width="60%">
       <ul>
         <li>🎓 I am a <b>Computer Science Student</b> at <b>Prince of Songkla University (PSU)</b>.</li>
-        
+        <li>💻 Passionate about <b>Full-Stack Web Development</b>.</li>
+        <li>🌱 Currently learning & using: <b>React, Node.js, PHP, and MongoDB</b>.</li>
+        <li>🚀 Working on: <b>PSU Science Inventory System</b>.</li>
+        <li>📫 Contact me: <b>[ใส่อีเมลของคุณ]</b></li>
       </ul>
     </td>
     <td width="40%" align="center">
       <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200" alt="coding animation"/>
     </td>
   </tr>
+</table>
 
 
 ---
