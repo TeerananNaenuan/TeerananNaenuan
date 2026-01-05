@@ -69,8 +69,7 @@
 
 ### 📊  My Contribution
 
-
 <div align="center">
-  <h3>📈 Monthly Activity</h3>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TeerananNaenuan&theme=tokyo-night&bg_color=0D1117&hide_border=true&area=true" width="100%" />
+  <h3>🏆 Achievements</h3>
+  <img src="https://github-profile-trophy.vercel.app/?username=TeerananNaenuan&theme=radical&no-frame=true&column=7&margin-w=15&margin-h=15" width="100%" />
 </div>
