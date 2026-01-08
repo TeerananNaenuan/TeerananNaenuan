@@ -27,16 +27,19 @@
 <div align="left"><br>
 
 ### 📋 Frontend Development
+<br>
 <div align="center">
   <img src="https://skillicons.dev/icons?i=react,js,html,css" />
 </div>
 
 ### 🤖 Backend Development
+<br>
 <div align="center">
   <img src="https://skillicons.dev/icons?i=nodejs,express,php" />
 </div>
 
 ### 💾 Database & Tools
+<br>
 <div align="center">
   <img src="https://skillicons.dev/icons?i=mongodb,mysql,git,postman" />
   <img src="https://img.shields.io/badge/Mongoose-880000?style=flat-square&logo=mongoose&logoColor=white" height="40" /> 
