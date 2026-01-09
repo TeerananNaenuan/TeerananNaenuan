@@ -14,8 +14,8 @@
 
 🎓 **Class:** Computer Science Student at **PSU**<br><br>
 💻 **Main Quest:** Full-Stack Web Development<br><br>
-🚀 **Current Mission:** Building **PSU Science Inventory System**<br><br>
-🌱 **Tech Stack:** React, Node.js, PHP, MongoDB<br><br>
+- 🔭 **Current Project:** **PSU Science Inventory System**
+  [![View on GitHub](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/your-username/psu-inventory)
 📫 **Contact:** <a href="mailto:hafit125m.7@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" /></a>
 
 <br clear="right">
